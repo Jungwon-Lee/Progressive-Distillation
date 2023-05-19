@@ -1,0 +1,9 @@
+logs/
+*.ckpt
+
+__pycache__/
+*.egg-info
+asd.log
+
+wandb/
+
